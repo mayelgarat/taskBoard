@@ -1,0 +1,17 @@
+
+.header {    
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+}
+
+.hire-me-btn {
+    border: none;
+    white-space: nowrap;
+    background: linear-gradient(109.46deg, #3adfa0 -54.42%, #5a9ac9 -21.07%, #ab2cfd 32.75%, #ff6b00 77.36%, #ffb800 123.01%);
+    padding: 10px 30px;
+    border-radius: 31px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
